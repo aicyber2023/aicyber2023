@@ -19,7 +19,7 @@
 
 # 私有化部署
 
-  https://github.com/aicyber2023/acs-docker
+  仓库地址：https://github.com/aicyber2023/acs-docker
 
 # 联系我们
 产品官网：www.aicyber.com/
